@@ -1,6 +1,6 @@
 # tennis-vis
 
-## Run mvn project
+### Run mvn project
 ```
 ./mvnw spring-boot:run
 ```
